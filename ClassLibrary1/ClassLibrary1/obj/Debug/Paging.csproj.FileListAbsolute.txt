@@ -1,0 +1,7 @@
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\Paging.csprojResolveAssemblyReference.cache
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\Paging.dll
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\Paging.pdb
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Debug\Paging.dll
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Debug\Paging.pdb
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml

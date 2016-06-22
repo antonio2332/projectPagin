@@ -1,0 +1,16 @@
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\priconfig.xml
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\priconfig.xml.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\layout.resfiles
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\layout.resfiles.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\resources.resfiles
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\resources.resfiles.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\pri.resfiles
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\pri.resfiles.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\qualifiers.txt
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\qualifiers.txt.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Debug\Paging.dll
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Debug\Paging.pdb
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Debug\Paging.pri
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\Paging.dll
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Debug\Paging.pdb

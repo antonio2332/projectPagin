@@ -1,0 +1,8 @@
+D:\Projects\WebSites\ClassLibrary1\PagingTests\bin\Debug\PagingTests.dll
+D:\Projects\WebSites\ClassLibrary1\PagingTests\bin\Debug\PagingTests.pdb
+D:\Projects\WebSites\ClassLibrary1\PagingTests\bin\Debug\Paging.dll
+D:\Projects\WebSites\ClassLibrary1\PagingTests\bin\Debug\Paging.pdb
+D:\Projects\WebSites\ClassLibrary1\PagingTests\bin\Debug\Paging.pri
+D:\Projects\WebSites\ClassLibrary1\PagingTests\obj\Debug\PagingTests.csprojResolveAssemblyReference.cache
+D:\Projects\WebSites\ClassLibrary1\PagingTests\obj\Debug\PagingTests.dll
+D:\Projects\WebSites\ClassLibrary1\PagingTests\obj\Debug\PagingTests.pdb

@@ -1,0 +1,16 @@
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pri
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\priconfig.xml
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\priconfig.xml.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\layout.resfiles
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\layout.resfiles.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\resources.resfiles
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\resources.resfiles.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\pri.resfiles
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\pri.resfiles.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\qualifiers.txt
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\qualifiers.txt.intermediate
+D:\Projects\WebSites\ClassLibrary1\ClassLibrary1\obj\Release\MultipleQualifiersPerDimensionFound.txt
